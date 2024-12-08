@@ -34,4 +34,4 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
     <img src="https://imgur.com/Hyqt40k.png" alt="My Playlist" width="150"/>
 </a>
 
-Klik gambar untuk mendengarkan playlist favorit saya di YouTube Music!
+Click the image to listen to my favorite playlist on YouTube Music.
