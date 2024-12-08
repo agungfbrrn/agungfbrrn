@@ -20,6 +20,8 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-%2341B883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
