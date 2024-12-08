@@ -37,7 +37,7 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
     <img src="https://imgur.com/sP8A11f.png" alt="My Playlist" width="150"/>
 </a>
 
-Click the image to listen to my favorite playlist on YouTube Music.
+Click the image to listen my favorite playlist on YouTube Music.
 
 ---
 
