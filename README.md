@@ -1,9 +1,13 @@
 # Hellow👋~Agung Febrian
 
-![Header](https://imgur.com/mhsDFsy.png)
+<p align="center">
+  <img src="https://imgur.com/mhsDFsy.png" alt="Header"/>
+</p>
 
 ## 🙋‍♂️ About Me
 I love diving into captivating novels 📚 and losing myself in music 🎶 with my IEM—it’s my perfect escape and source of inspiration.
+
+---
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
