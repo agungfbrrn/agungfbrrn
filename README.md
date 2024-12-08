@@ -22,3 +22,8 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 ![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfebrixn&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfebrixn&layout=compact&theme=tokyonight)
+
+## 🎶 My Favorite Playlist
+[![My Playlist](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://music.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+
+Klik gambar untuk mendengarkan playlist favorit saya di YouTube Music!
