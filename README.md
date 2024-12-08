@@ -29,7 +29,7 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 
 ---
 
-## 🎶 My Favorite Playlist
+## 🎶 Playlist
 <a href="https://music.youtube.com/playlist?list=PLd7W4CVTdtdNGunVYHyEjWXwtqS1eywrC">
     <img src="https://imgur.com/Hyqt40k.png" alt="My Playlist" width="150"/>
 </a>
