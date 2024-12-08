@@ -38,3 +38,9 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 </a>
 
 Click the image to listen to my favorite playlist on YouTube Music.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agungfebrixn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
