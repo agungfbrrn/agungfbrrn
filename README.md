@@ -23,7 +23,10 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfebrixn&layout=compact&theme=tokyonight)
 
+---
+
 ## 🎶 My Favorite Playlist
-[![My Playlist](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://music.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+[![My Playlist](https://img.youtube.com/vi/UuZr0G--xbI/0.jpg)](https://music.youtube.com/playlist?list=PLd7W4CVTdtdNGunVYHyEjWXwtqS1eywrC)
 
 Klik gambar untuk mendengarkan playlist favorit saya di YouTube Music!
+
