@@ -9,7 +9,7 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -22,7 +22,7 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Vue.js-%2341B883.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" style="flex: 1 1 auto; max-width: 200px;">
 </div>
 
 ---
