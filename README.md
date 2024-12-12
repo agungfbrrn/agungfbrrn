@@ -28,9 +28,9 @@ I love diving into captivating novels 📚 and losing myself in music 🎶 with 
 ---
 
 ## 📈 GitHub Stats
-![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfebrixn&show_icons=true&theme=dark)
+![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfbrrn&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfebrixn&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfbrrn&layout=compact&theme=dark)
 
 ---
 
@@ -44,5 +44,5 @@ Click the image to listen my favorite playlist on YouTube Music.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agungfebrixn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=agungfbrrn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
