@@ -4,9 +4,6 @@
   <img src="https://i.imgur.com/PRlYGWS.jpeg" alt="Header"/>
 </p>
 
-## 🙋‍♂️ About Me
-I love diving into captivating novels 📚 and losing myself in music 🎶 with my IEM—it’s my perfect escape and source of inspiration.
-
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
