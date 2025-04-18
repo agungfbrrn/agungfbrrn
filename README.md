@@ -6,14 +6,6 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" style="flex: 1 1 auto; max-width: 200px;">
-</div>
-
----
-
 ## 📈 GitHub Stats
 ![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfbrrn&show_icons=true&theme=dark)
 
