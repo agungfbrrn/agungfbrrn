@@ -23,7 +23,7 @@
 
 ## 🎶 Playlist
 <a href="https://music.youtube.com/playlist?list=PLd7W4CVTdtdNGunVYHyEjWXwtqS1eywrC">
-    <img src="https://imgur.com/sP8A11f.png" alt="My Playlist" width="150"/>
+    <img src="https://i.imgur.com/11VuI83.jpeg" alt="My Playlist" width="150"/>
 </a>
 
 Click the image to listen my favorite playlist on YouTube Music.
