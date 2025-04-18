@@ -1,4 +1,4 @@
-# Hellow👋~Agung Febrian
+# 👋
 
 <p align="center">
   <img src="https://i.imgur.com/PRlYGWS.jpeg" alt="Header"/>
