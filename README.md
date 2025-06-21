@@ -1,6 +1,5 @@
 # 👋
 
-## 📈 GitHub Stats
 ![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfbrrn&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfbrrn&layout=compact&theme=dark)
