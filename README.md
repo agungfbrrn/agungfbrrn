@@ -1,11 +1,5 @@
 # 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/PRlYGWS.jpeg" alt="Header"/>
-</p>
-
----
-
 ## 📈 GitHub Stats
 ![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungfbrrn&show_icons=true&theme=dark)
 
